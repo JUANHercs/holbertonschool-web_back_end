@@ -8,3 +8,4 @@ def add(a:float, b:float) -> float:
     with annotations"""
 
     return a + b
+
